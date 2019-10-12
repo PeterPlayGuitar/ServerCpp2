@@ -1,0 +1,3 @@
+﻿  Server.cpp
+c:\users\peter\source\repos\servercpp2\servercpp2\server.cpp(469): warning C4018: <: несоответствие типов со знаком и без знака
+  ServerCpp2.vcxproj -> C:\Users\Peter\source\repos\ServerCpp2\Debug\ServerCpp2.exe
